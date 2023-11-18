@@ -3,9 +3,9 @@
 ## Providence, UT
 
 <p float="left">
-  <img src="/pictures/summer_utah_1.jpg" width="300" />
-  <img src="/pictures/summer_utah_2.jpg" width="300" /> 
-  <img src="/pictures/summer_utah_4.jpg" width="300" /> 
+  <img src="/pictures/summer_utah_1.jpg" width="200" />
+  <img src="/pictures/summer_utah_2.jpg" width="200" /> 
+  <img src="/pictures/summer_utah_4.jpg" width="200" /> 
 </p>
 
 ## Where: 
