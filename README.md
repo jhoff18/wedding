@@ -20,3 +20,8 @@
 
 ## Registry
 [Sur La Table](https://www.surlatable.com/giftregistry-customershow?ID=e053e5c99d8ffa8adfd72d7991)
+
+|   |   |   |
+|---|---|---|
+|![](/pictures/kentucky.jpg) |  ![](/pictures/holden.jpg) |  ![](/pictures/bridge.jpg)
+|![](/pictures/meatloaf.jpg) |  ![](/pictures/halfwaycrooks.jpg) |  ![](/pictures/babscollar.jpg)
