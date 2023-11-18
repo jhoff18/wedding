@@ -1,4 +1,4 @@
-![jonathanandbabs](https://github.com/jhoff18/wedding/assets/56033335/439896eb-06fd-4659-95ed-39a4cdd70184)# Jess & Jonathan's Wedding
+# Jess & Jonathan's Wedding
 ## June 29, 2024
 ## Providence, UT
 
