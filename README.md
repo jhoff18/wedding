@@ -1,20 +1,11 @@
-# Jess & Jonathan's Wedding
+![jonathanandbabs](https://github.com/jhoff18/wedding/assets/56033335/439896eb-06fd-4659-95ed-39a4cdd70184)# Jess & Jonathan's Wedding
 ## June 29, 2024
 ## Providence, UT
 
-<p float="left">
-  <img src="/pictures/summer_utah_1.jpg" width="100" />
-  <img src="/pictures/summer_utah_2.jpg" width="100" /> 
-  <img src="/pictures/summer_utah_4.jpg" width="100" /> 
-</p>
-
-|   |   |
-|---|---|
+|   |   |   |
+|---|---|---|
 |![](/pictures/summer_utah_1.jpg) |  ![](/pictures/summer_utah_2.jpg) |  ![](/pictures/summer_utah_4.jpg)
-| Normal Key | Value2 | val|
-
-Utah             |  Utah  |  Utah
-:-------------------------:|:-------------------------:|:-------------------------:
+|![](/pictures/joshuatree.jpg) |  ![](/pictures/jonathanandbabs.jpg) |  ![](/pictures/utahsnow.jpg)
 
 
 ## Where: 
