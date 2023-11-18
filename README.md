@@ -1,4 +1,3 @@
-# Jess & Jonathan's Wedding
 ## June 29, 2024
 ## Providence, UT
 
