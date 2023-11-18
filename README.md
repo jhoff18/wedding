@@ -1,5 +1,6 @@
 # Jess & Jonathan's 'wedsite'
 ![Cache Valley](/pictures/cachevalley.png)
+![Temple Fork](/pictures/templefork.jpeg)
 ## Where: 
 - Probidence, UT
 - [Old Rock Church](https://oldrockchurch.com/)
