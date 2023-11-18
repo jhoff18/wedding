@@ -7,12 +7,7 @@
 |![](/pictures/summer_utah_1.jpg) |  ![](/pictures/summer_utah_2.jpg) |  ![](/pictures/summer_utah_4.jpg)
 |![](/pictures/joshuatree.jpg) |  ![](/pictures/jonathanandbabs.jpg) |  ![](/pictures/utahsnow.jpg)
 
-
-## Where: 
-[Old Rock Church](https://oldrockchurch.com/)
-
-## When:
-- June 29, 2024 • 4pm
+![weddingweekendguide](/pictures/weddingweekendguide.png)
 
 ## RSVP
 
@@ -23,5 +18,5 @@
 
 |   |   |   |
 |---|---|---|
-|![](/pictures/kentucky.jpg) |  ![](/pictures/holden.jpg) |  ![](/pictures/bridge.jpg)
-|![](/pictures/meatloaf.jpg) |  ![](/pictures/halfwaycrooks.jpg) |  ![](/pictures/babscollar.jpg)
+|![](/pictures/kentucky.jpg) | ![](/pictures/bridge.jpg)  | ![](/pictures/meatloaf.jpg) 
+| ![](/pictures/holden.jpg) | ![](/pictures/babscollar.jpg)  |  ![](/pictures/halfwaycrooks.JPG)
