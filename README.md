@@ -7,13 +7,10 @@
   <img src="/pictures/summer_utah_2.jpg" width="300" /> 
   <img src="/pictures/summer_utah_4.jpg" width="300" /> 
 </p>
-
+                   |             |   
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/pictures/summer_utah_1.jpg)  |  ![](/pictures/summer_utah_2.jpg) |  ![](/pictures/summer_utah_4.jpg)
 
-
-![Cache Valley](/pictures/cachevalley.png)
-![Temple Fork](/pictures/templefork.jpeg)
 ## Where: 
 [Old Rock Church](https://oldrockchurch.com/)
 
