@@ -10,7 +10,7 @@
 
 Utah             |  Utah  |  Utah
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/pictures/summer_utah_1.jpg)  |  ![](/pictures/summer_utah_2.jpg) |  ![](/pictures/summer_utah_3.jpg)
+![](/pictures/summer_utah_1.jpg)  |  ![](/pictures/summer_utah_2.jpg) |  ![](/pictures/summer_utah_4.jpg)
 
 ## Where: 
 [Old Rock Church](https://oldrockchurch.com/)
