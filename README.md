@@ -3,19 +3,13 @@
 ## Providence, UT
 
 <p float="left">
-  <img src="/pictures/summer_utah_1.jpg" width="100" />
-  <img src="/pictures/summer_utah_2.jpg" width="100" /> 
+  <img src="/pictures/summer_utah_1.jpg" width="300" />
+  <img src="/pictures/summer_utah_2.jpg" width="300" /> 
+  <img src="/pictures/summer_utah_4.jpg" width="300" /> 
 </p>
 
-<p float="left">
-  <img src="/pictures/summer_utah_3.jpg" width="100" />
-  <img src="/pictures/summer_utah_4.jpg" width="100" /> 
-</p>
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](/pictures/summer_utah_1.jpg)  |  ![](/pictures/summer_utah_2.jpg)
-![](/pictures/summer_utah_3.jpg)  |  ![](/pictures/summer_utah_4.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:
+![](/pictures/summer_utah_1.jpg)  |  ![](/pictures/summer_utah_2.jpg) |  ![](/pictures/summer_utah_4.jpg)
 
 
 ![Cache Valley](/pictures/cachevalley.png)
