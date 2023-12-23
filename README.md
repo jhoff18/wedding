@@ -11,9 +11,9 @@
 
 ## Wedding FAQ
 #### 1. What should I wear? 
-- Anything that makes you feel comfortable! Probably not pajamas. If it helps, Jonathan will be in a suit and Jess will wear a white dress.
+Anything that makes you feel comfortable! Probably not pajamas. If it helps, Jonathan will be in a suit and Jess will wear a white dress.
 #### 2. Where should I stay? 
-Space is extremely limited at the Old Rock Church. There are a number of hotel options nearby!
+Please do not book a room at the Old Rock Church unless explicitly asked to do so; space is extremely limited. There are a number of hotel options nearby!
 1. [Hampton Inn & Suites Logan]([url](https://www.hilton.com/en/hotels/lgudahx-hampton-suites-logan/?SEO_id=GMB-AMER-HX-LGUDAHX&y_source=1_MTE5NTE1NDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D))
 2. [SpringHill Suites by Marriot]([url](https://www.marriott.com/en-us/hotels/slclg-springhill-suites-logan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0))
 3. [TownePlace Suites by Marriott]([url](https://www.marriott.com/en-us/hotels/slctg-towneplace-suites-logan/overview/?gclid=CjwKCAiAp5qsBhAPEiwAP0qeJnNzCP9q8XLPqhkmK8p_CHdGbUFV5ic7A3XAbT2Cuj6eWdejIcoqgRoCiLMQAvD_BwE&gclsrc=aw.ds&cid=PAI_GLB0004YXD_GLE000BIM5_GLF000OETA))
