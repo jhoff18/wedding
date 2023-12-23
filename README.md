@@ -23,15 +23,21 @@ Anything that makes you feel comfortable! Probably not pajamas. If it helps, Jon
 7. [University Inn]([url](https://hotel.usu.edu/))
 
 ## Things to do in Providence & Logan:
-1. **Zootah**. Feed the ducks for $1.25!
-2. Logan Canyon hikes. We recommend Wind Caves, Temple Fork Sawmill, and Crimson Trail.
-3. Outside Logan Canyon hiking: Blacksmith Fork River Trail
-4. Aggie Ice Cream @ The Creamery
-5. **Downtown Logan** (Main & Center Street)
-6. Caffe Ibis
-7. American West Heritage Center
-8. Pepperidge Farm Thrift Store (30 mins away -- can buy discount, broken Milanos)
-9. Gossner Food (big cheese manufacturer)
+Logan is a small city with fun options surrounding Utah State University. The main attraction is the outdoors -- the hiking is unbeatable!
+1. Recommended hikes:
+- The Wind Caves
+- Temple Fork Sawmill
+- Crimson Trail
+- Blacksmith Fork River Trail
+  
+2. Things to do around Logan:
+- **Zootah**. Feed the ducks for $1.25!
+- Aggie Ice Cream @ The Creamery
+- **Downtown Logan** (Main & Center Street)
+- Caffe Ibis
+- American West Heritage Center
+- Pepperidge Farm Thrift Store (30 mins away -- can buy discount, broken Milanos)
+- Gossner Food (big cheese manufacturer)
 
 ## RSVP
 
