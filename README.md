@@ -11,8 +11,10 @@
 
 ## Wedding FAQ
 #### 1. What should I wear? 
-Anything that makes you feel comfortable! Probably not pajamas. If it helps, Jonathan will be in a suit and Jess will wear a white dress.
-#### 2. Where should I stay? 
+Anything that makes you feel comfortable! Probably not pajamas.
+#### 2. How do I get to Providence, UT?
+We recommend guests fly into Salt Lake City and rent a car. Providence is a 90 minute drive from the Salt Lake City airport. It is difficult to get around town without a car.
+#### 3. Where should I stay? 
 **Please do not book a room at the Old Rock Church** unless explicitly asked to do so; space is extremely limited. There are a number of hotel options nearby!
 1. [Hampton Inn & Suites Logan]([url](https://www.hilton.com/en/hotels/lgudahx-hampton-suites-logan/?SEO_id=GMB-AMER-HX-LGUDAHX&y_source=1_MTE5NTE1NDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D))
 2. [SpringHill Suites by Marriot]([url](https://www.marriott.com/en-us/hotels/slclg-springhill-suites-logan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0))
@@ -22,7 +24,7 @@ Anything that makes you feel comfortable! Probably not pajamas. If it helps, Jon
 6. [La Quinta Inn & Suites by Wyndham Logan]([url](https://www.wyndhamhotels.com/laquinta/logan-utah/la-quinta-logan/overview?CID=LC:6ysy27krtpcrqev:53449))
 7. [University Inn]([url](https://hotel.usu.edu/))
 
-## Things to do in Providence & Logan:
+#### 4. What should I see/do in Providence & Logan?
 Logan is a small city with fun options surrounding Utah State University. The main attraction is the outdoors -- the hiking is unbeatable!
 1. Recommended hikes:
 - The Wind Caves
@@ -30,7 +32,7 @@ Logan is a small city with fun options surrounding Utah State University. The ma
 - Crimson Trail
 - Blacksmith Fork River Trail
   
-2. Things to do around Logan:
+2. Around Logan:
 - **Zootah**. Feed the ducks for $1.25!
 - Aggie Ice Cream @ The Creamery
 - **Downtown Logan** (Main & Center Street)
@@ -40,11 +42,14 @@ Logan is a small city with fun options surrounding Utah State University. The ma
 - Gossner Food (big cheese manufacturer)
 
 ## RSVP
-
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdg0v7PWcbjbDapeu2auTm6qU7A0672k2GflRwkfPhxafHpbA/viewform?embedded=true" width="640" height="1061" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Registry
-[Sur La Table](https://www.surlatable.com/giftregistry-customershow?ID=e053e5c99d8ffa8adfd72d7991)
+We currently do not need any traditional wedding gifts (e.g. flatware, kitchen gadgets, appliances). 
+
+The only things we would like to bring home from this wedding are memories of our wonderful friends and families. 
+
+If you would like to gift us something (which is not required or expected!), we'd happily accept handmade arts or crafts from attendess or a nice entry in our guest book.
 
 |   |   |   |
 |---|---|---|
