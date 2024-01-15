@@ -7,11 +7,11 @@
 |![](/pictures/summer_utah_1.jpg) |  ![](/pictures/summer_utah_2.jpg) |  ![](/pictures/summer_utah_4.jpg)
 |![](/pictures/joshuatree.jpg) |  ![](/pictures/jonathanandbabs.jpg) |  ![](/pictures/utahsnow.jpg)
 
-![](/pictures/concisetimeline.png)
+![](/pictures/concisetimeline_v2.png)
 
 ## Wedding FAQ
 #### 1. What should I wear? 
-Anything that makes you feel comfortable! Probably not pajamas.
+Anything that makes you feel comfortable! The wedding and reception will take place outside. We suggest "dressy casual".
 #### 2. How do I get to Providence, UT?
 We recommend guests fly into Salt Lake City and rent a car. Providence is a 90 minute drive from the Salt Lake City airport. It is difficult to get around town without a car.
 #### 3. Where should I stay? 
@@ -46,10 +46,7 @@ Logan is a small city with fun options surrounding Utah State University. The ma
 
 ## Registry
 We currently do not need any traditional wedding gifts (e.g. flatware, kitchen gadgets, appliances). 
-
-The only things we would like to bring home from this wedding are memories of our wonderful friends and families. 
-
-If you would like to gift us something (which is not required or expected!), we'd happily accept handmade arts or crafts from attendess or a nice entry in our guest book.
+The only things we would like to bring home from this wedding are memories of our wonderful friends and families. :)
 
 |   |   |   |
 |---|---|---|
