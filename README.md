@@ -46,7 +46,8 @@ Logan is a small city with fun options surrounding Utah State University. The ma
 
 ## Registry
 We are tight on space in San Diego and currently do not need any traditional wedding gifts (e.g. flatware, kitchen gadgets, appliances). 
-Monetary gifts are certainly not required, however, if you'd like to contribute to our honeymoon fund, we can be reached via Venmo (@Jess-Hoffman-1 or @Jonathan-Campbell-19) or Zelle (Jonathan's phone number).
+
+Monetary gifts are certainly not required (or expected!). However, if you'd like to contribute to our honeymoon fund, we can be reached via Venmo (@Jess-Hoffman-1 or @Jonathan-Campbell-19) or Zelle (Jonathan's phone number).
 
 |   |   |   |
 |---|---|---|
