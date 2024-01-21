@@ -45,8 +45,8 @@ Logan is a small city with fun options surrounding Utah State University. The ma
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdg0v7PWcbjbDapeu2auTm6qU7A0672k2GflRwkfPhxafHpbA/viewform?embedded=true" width="640" height="1061" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Registry
-We currently do not need any traditional wedding gifts (e.g. flatware, kitchen gadgets, appliances). 
-The only things we would like to bring home from this wedding are memories of our wonderful friends and families. :)
+We are tight on space in San Diego and currently do not need any traditional wedding gifts (e.g. flatware, kitchen gadgets, appliances). 
+Monetary gifts are certainly not required, however, if you'd like to contribute to our honeymoon fund, we can be reached via Venmo (@Jess-Hoffman-1 or @Jonathan-Campbell-19) or Zelle (Jonathan's phone number).
 
 |   |   |   |
 |---|---|---|
