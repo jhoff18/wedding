@@ -7,11 +7,21 @@
 |![](/pictures/summer_utah_1.jpg) |  ![](/pictures/summer_utah_2.jpg) |  ![](/pictures/summer_utah_4.jpg)
 |![](/pictures/joshuatree.jpg) |  ![](/pictures/jonathanandbabs.jpg) |  ![](/pictures/utahsnow.jpg)
 
-![](/pictures/concisetimeline_v2.png)
+# Wedding Schedule
+## Friday (2024-06-28)
+- Optional: Informal dinner & drinks at Prodigy Brewing | Starts at 6:30 pm. Drop in before 9 pm, if you'd like!
+  
+## Saturday (2024-06-29)
+- 4:30 - 5:00 Ceremony
+- 5:00 - 6:00 Mocktail Hour
+- 6:00 - 7:00 Dinner
+- 7:00 - 10:00 Dancing & Games
+- 8:00 Cake & Ice Cream Bar
+- 10:00 End
 
 ## Wedding FAQ
 #### 1. What should I wear? 
-Anything that makes you feel comfortable! The wedding and reception will take place outside. We suggest "dressy casual".
+Anything that makes you feel comfortable! The wedding and reception will take place outside on grass. We suggest "dressy casual".
 #### 2. How do I get to Providence, UT?
 We recommend guests fly into Salt Lake City and rent a car. Providence is a 90 minute drive from the Salt Lake City airport. It is difficult to get around town without a car.
 #### 3. Where should I stay? 
